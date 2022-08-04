@@ -13,7 +13,7 @@ import com.jardacoder.strategy.demo.interfaces.factory.NotificationServiceFactor
 
 @SpringBootTest
 @RunWith(SpringRunner.class)
-class  NotificationServiceTests {
+class NotificationServiceTests {
 	
 	@Autowired
 	private NotificationServiceFactory notificationServiceFactory;
